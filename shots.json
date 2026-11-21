@@ -1,0 +1,6 @@
+[
+  { "name": "1-cover.jpg", "query": "?shot=cover" },
+  { "name": "2-hint.jpg", "query": "?shot=hint" },
+  { "name": "3-complete.jpg", "query": "?shot=win" },
+  { "name": "4-harbor.jpg", "query": "?level=3" }
+]
